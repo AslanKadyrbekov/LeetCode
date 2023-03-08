@@ -1,5 +1,3 @@
-// JAVA solution
-
 class Solution {
     public int romanToInt(String s) {
         // Map to store romans numerals
